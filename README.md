@@ -7,9 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+PLEASEE READ THE INSTRUCTION BELOW!! 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -49,9 +47,16 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## HOW TO CONNECT WITH DATABASES
+FIRST CLONE THE REPOSITORY
+COPY THE FILES IN "DATABASE USE"
+OPEN XAMMP
+RUN THE DATABASE
+GO TO FILES > WINDOWS (C) > XAMMP > MYSQL> DATA
+AND PASTE IT
+REPLACE FILE
+THEN GO TO PHPMYADMIN CHECK IF THE DATABASE IS IN THERE
+THEN RUN THE LARAVEL FILE IN CMD PHP ARTISAN SERVE
 
 ## Code of Conduct
 
