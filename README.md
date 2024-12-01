@@ -27,7 +27,7 @@ PLEASEE READ THE INSTRUCTION BELOW!!
 
 -THEN GO TO PHPMYADMIN CHECK IF THE DATABASE IS IN THERE    
 
--go to cmd and locate your laravel file and inststall npm install after install nrpm run build    
+-go to cmd and locate your laravel file and inststall npm install after install npm run build    
 
 -THEN RUN THE LARAVEL FILE PHP ARTISAN SERVE
 
