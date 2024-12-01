@@ -31,3 +31,6 @@ PLEASEE READ THE INSTRUCTION BELOW!!
 
 -THEN RUN THE LARAVEL FILE PHP ARTISAN SERVE
 
+
+  
+if xammpp has unexpected error follow this https://youtu.be/yFVJwD2kkGM?si=9-PtrXbKFO9LjshN
