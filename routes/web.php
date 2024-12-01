@@ -1,6 +1,5 @@
 <?php
 
-use App\Http\Controllers\populatingpagesController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -17,10 +16,6 @@ Route::middleware('auth')->group(function () {
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
-
-// Update to point to the correct method
-Route::get('/dashboard', [populatingpagesController::class, 'index'])->middleware(['auth', 'verified'])->name('dashboard');
-
 
 require __DIR__.'/auth.php';
 require __DIR__.'/admin-auth.php';
