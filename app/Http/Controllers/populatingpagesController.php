@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class PopulatingPagesController extends Controller
+class populatingpagesController extends Controller
 {
     public function index(Request $request)
     {
